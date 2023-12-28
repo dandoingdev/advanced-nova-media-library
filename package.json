@@ -1,6 +1,5 @@
 {
   "name": "dandoingdev/advanced-nova-media-library",
-    "private": true,
     "scripts": {
         "development": "mix",
         "watch": "mix watch",
