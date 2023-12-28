@@ -31,5 +31,6 @@
         "vue-advanced-cropper": "^2.8.1",
         "vuedraggable": "^4.1.0",
         "vuex": "^4.0.2"
-    }
+    },
+  "minimum-stability": "stable",
 }
